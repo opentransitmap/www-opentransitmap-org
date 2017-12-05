@@ -2,7 +2,7 @@ Testing
 -------
 
 This website is built using [Pelican](getpelican.com) and Python 3. For further information,
-pleas check out the official [documentation](http://docs.getpelican.com/en/stable/index.html)
+please check out the official [documentation](http://docs.getpelican.com/en/stable/index.html).
 
 On Linux systems:
 =================
@@ -10,6 +10,7 @@ On Linux systems:
 * `make devserver`
 * Preview the site by navigating to http://localhost:8000/ in your browser.
 It will automatically get updated on file changes.
+* After testing, kill the local server using `./develop_server.sh stop`
 
 Alternative Method for all operating systems:
 =============================================
